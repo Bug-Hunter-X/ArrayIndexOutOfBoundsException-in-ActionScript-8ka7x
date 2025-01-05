@@ -1,0 +1,1 @@
+This repository demonstrates a common ActionScript error: attempting to access an array element that is out of bounds.  The `bug.as` file contains code that causes this error. The `bugSolution.as` file shows how to resolve it.
